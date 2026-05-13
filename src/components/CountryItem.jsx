@@ -1,10 +1,11 @@
 import PropTypes from "prop-types";
 import styles from "./CountryItem.module.css";
+import { flagemojiToPNG } from "../utils/helpers";
 
 function CountryItem({ country }) {
   return (
     <li className={styles.countryItem}>
-      <span>{country.emoji}</span>
+      <span>{flagemojiToPNG(country.emoji)}</span>
       <span>{country.country}</span>
     </li>
   );
