@@ -35,6 +35,66 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2027-05-20T10:00:00.000Z",
+      "notes": "Exploring Akihabara!",
+      "position": {
+        "lat": 35.6762,
+        "lng": 139.6503
+      },
+      "id": 48291034
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2027-06-15T14:30:00.000Z",
+      "notes": "Eiffel Tower was stunning.",
+      "position": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "id": 59201837
+    },
+    {
+      "cityName": "New York",
+      "country": "United States",
+      "emoji": "🇺🇸",
+      "date": "2027-08-10T19:00:00.000Z",
+      "notes": "The city that never sleeps!",
+      "position": {
+        "lat": 40.7128,
+        "lng": -74.0060
+      },
+      "id": 30291847
+    },
+    {
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2027-09-05T11:45:00.000Z",
+      "notes": "Best pasta ever.",
+      "position": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "id": 19283746
+    },
+    {
+      "cityName": "Mexico City",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2027-11-12T16:20:00.000Z",
+      "notes": "Incredible history and food.",
+      "position": {
+        "lat": 19.4326,
+        "lng": -99.1332
+      },
+      "id": 84729103
     }
   ]
 }
